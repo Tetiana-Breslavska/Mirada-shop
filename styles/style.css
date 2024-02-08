@@ -4,8 +4,21 @@
 }
 
 .carousel-item img {
-    object-fit: cover;
+    object-fit:cover;
     height: 100%;
+    width: 100%;
+    
+}
+ .carousel-caption a{
+    font-size: 30px;
+ }
+
+.carousel-caption h4, .carousel-caption h3{
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 1px #0b1202;
+    font-size: 70px;
+    
+
 }
 
 .card img {
